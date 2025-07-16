@@ -1,0 +1,23 @@
+# Visual Studio 2015 and 2022 / JetBrains Rider user specific files
+/.vs/
+/.idea/
+
+# Scripting
+/.vscode/
+
+# Python virtual environments
+/.venv/
+/venv/
+
+# CLion CMake files
+/cmake-build-*/
+
+# Vsc CMake files
+/out/
+
+# Manual build files
+/build/
+/build*/
+
+# Osx
+.DS_Store
